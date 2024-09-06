@@ -1,0 +1,7 @@
+{
+	"name": "Python 3",
+	"dockerFile": "../Dockerfile",
+	"customizations": {
+		// vscodeの設定や拡張機能を指定できる。お好みで。
+	}
+}
