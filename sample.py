@@ -1,5 +1,5 @@
 import pyxel
-pyxel.init(200, 0)
+pyxel.init(200, 200)
 pyxel.cls(8)
-pyxel.line(20, 20, 180, 130, 7)
+pyxel.line(10, 10, 180, 130, 3)
 pyxel.show()
